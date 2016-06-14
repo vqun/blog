@@ -1,4 +1,4 @@
-# Javascript
+# Javascript基础
 ##[1. 基本概念](https://github.com/vqun/blog/issues/1)
 ##[2. String](https://github.com/vqun/blog/issues/2)
 ##[3. Number](https://github.com/vqun/blog/issues/3)
