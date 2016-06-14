@@ -1,9 +1,1 @@
-# Javascript归集
-##[1. 基本概念](https://github.com/vqun/blog/issues/1)
-##[2. String](https://github.com/vqun/blog/issues/2)
-##[3. Number](https://github.com/vqun/blog/issues/3)
-##[4. Object](https://github.com/vqun/blog/issues/4)
-##[5. Array](https://github.com/vqun/blog/issues/5)
-##[6. 原型和原型链](https://github.com/vqun/blog/issues/6)
-##[7. 作用域和作用域链](https://github.com/vqun/blog/issues/7)
-##[8. 闭包](https://github.com/vqun/blog/issues/8)
+一堆有的没的
