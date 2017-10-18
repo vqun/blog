@@ -1,0 +1,15 @@
+[
+  // see http://code.visualstudio.com/docs/editor/integrated-terminal
+  { "key": "cmd+t cmd+f", "command": "workbench.action.terminal.focus"},
+  { "key": "cmd+]", "command": "workbench.action.terminal.focusNext", "when": "terminalFocus"},
+  { "key": "cmd+[", "command": "workbench.action.terminal.focusPrevious", "when": "terminalFocus"},
+  { "key": "cmd+w", "command": "workbench.action.terminal.kill", "when": "terminalFocus"},
+  { "key": "cmd+t cmd+n", "command": "workbench.action.terminal.new", "when": "!terminalFocus" },
+  { "key": "cmd+n", "command": "workbench.action.terminal.new", "when": "terminalFocus" },
+  // Rewrite the default keybindings
+  { "key": "cmd+y", "command": "redo", "when": "editorTextFocus && !editorReadonly" },
+  { "key": "cmd+shift+l", "command": "editor.action.insertCursorAtEndOfEachLineSelected", "when": "editorTextFocus" },
+  // change-case扩展的快捷键
+  { "key": "cmd+k cmd+u", "command": "extension.changeCase.upperFirst" },
+  { "key": "cmd+k cmd+l", "command": "extension.changeCase.lowerFirst" }
+]
